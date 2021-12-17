@@ -1,4 +1,4 @@
-# zineseminar09
+# energywhoisshe.github.io/zineseminar09
 
 <!-- <a href='https://energywhoisshe.github.io/' target='_blank'>energywhoisshe.github.io</a> -->
 
